@@ -1,2 +1,2 @@
 # Web-projects
-Here,  mini-projects I do while learning web-dev are uploaded,,,,,,,,,
+Here, projects I do while learning web-dev are uploaded,,,,,,,,,
