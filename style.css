@@ -1,0 +1,41 @@
+body{
+    background-color: darkblue;
+}
+.head{
+    background-color: black;
+    padding:30px;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 50px;
+    color:white;
+    text-align: center;
+}
+.dice-container{
+    margin-top: 70px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+
+}
+.dice1{
+   
+    padding: 50px;
+    background-color: crimson;
+}
+.dice2{
+    margin-left: 50px;
+    padding: 50px;
+    background-color: crimson;
+}
+.dice1>p{
+    color:white;
+    font-size: 20px;
+    font-weight: 600;
+    
+}
+.dice2>p{
+    color:white;
+    font-size: 20px;
+    font-weight: 600;
+    
+}
